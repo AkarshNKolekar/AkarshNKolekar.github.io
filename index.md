@@ -5,7 +5,7 @@ Thought this could be one of them.
 
 ## Background
 I'm an ASIC Design Engineer who writes RTL. 
-It seems to help that I have a Master's from Georgia Tech and a Bachelor's from PESIT, both in ECE.
+It seems to help that I have a Master's from [Georgia Tech](https://www.gatech.edu/) and a Bachelor's from [PESIT](https://www.pes.edu/), both in ECE.
 When not designing digital logic blocks, I like to play and watch a lot of sports (badminton, soccer, cricket), sing and play the piano, draw and paint, read fiction and spend time outdoors (running, hiking, surfing).<br />
 Oh, I like to cook too. Need to fuel the engine that tries to write code, right?
 
