@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my humble abode.
+Every software engineer I see out in the world seems to have a github page.
+Didn't see too many for hardware engineers.
+Thought this could be one of them.
 
-You can use the [editor on GitHub](https://github.com/AkarshNKolekar/AkarshNKolekar.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Background
+I'm an ASIC Design Engineer who writes RTL. 
+It seems to help that I have a Master's from Georgia Tech and a Bachelor's from PESIT, both in ECE.
+When not designing digital logic blocks, I like to play and watch a lot of sports (badminton, soccer, cricket), sing and play the piano, draw and paint, read fiction and spend time outdoors (running, hiking, surfing).
+Oh, I like to cook too. Need to fuel the engine that tries to write code, right?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AkarshNKolekar/AkarshNKolekar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## How to reach out to me?
+You can reach me at my [LinkedIn profile](https://www.linkedin.com/in/akarshnkolekar/).
