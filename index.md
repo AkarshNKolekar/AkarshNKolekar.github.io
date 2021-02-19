@@ -10,5 +10,5 @@ When not designing digital logic blocks, I like to play and watch a lot of sport
 Oh, I like to cook too. Need to fuel the engine that tries to write code, right?
 
 ## How to reach out to me?
-You can reach me at my [LinkedIn profile](https://www.linkedin.com/in/akarshnkolekar/).\n
+You can reach me at my [LinkedIn profile](https://www.linkedin.com/in/akarshnkolekar/).<br />
 Here are my [Github Repos](https://github.com/AkarshNKolekar).
