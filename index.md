@@ -1,10 +1,10 @@
-## Welcome to my humble abode.
+## Greetings! Good to see you here.
 Every software engineer I see out in the world seems to have a github page.
 Didn't see too many for hardware engineers.<br />
 Thought this could be one of them.
 
 ## Background
-I'm an ASIC Design Engineer who writes RTL. 
+I'm an ASIC Design Engineer who develops RTL.
 It seems to help that I have a Master's from [Georgia Tech](https://www.gatech.edu/) and a Bachelor's from [PESIT](https://www.pes.edu/), both in ECE.
 When not designing digital logic blocks, I like to play and watch a lot of sports (badminton, soccer, cricket), sing and play the piano, draw and paint, read fiction and spend time outdoors (running, hiking, surfing).<br />
 Oh, I like to cook too. Need to fuel the engine that tries to write code, right?
